@@ -94,6 +94,12 @@ Similar to rotation, but converges the angular argument to zero.
 
 <img width="206" alt="image" src="https://github.com/BMMADHUMITHA/Cordic/assets/134037700/79ab6a63-d8e6-4fd9-8c01-0ca592700f8e">
 
+# Prepared By
+B M Madhumitha, Aditya Bharat, Aryan Kumar and Sharanya Shetty
+
+# References
+https://www.youtube.com/watch?v=5tqfz9kREmc 
+A SystemC Textbook - by J Bhaskar
 
 
 
